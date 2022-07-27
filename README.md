@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# TeeTime
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### A full-stack CRUD application 
+<img src="./Images/Landing Page.png" alt="Landing Page"/>
+<img src="./Images/Add-New.png" alt="Add New"/>
+<img src="./Images/Tee-Time-Show.png" alt="View Tee Time"/>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
+TeeTime: A full CRUD web application that allows users to add and track tee time reservations. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
+* [Technologies Used](#technologiesused)
+* [Features](#features)
+* [Design](#design)
+* [Project Next Steps](#nextsteps)
+* [Deployed App](#deployment)
+* [About the Author](#author)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## <a name="technologiesused"></a>Technologies Used
+* JavaScript
+* HTML5
+* CSS3
+* Node.js
+* Express.js
+* MongoDb
+* Mongoose 
+* Materialize 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+Users are able to create, view, edit, and delete their tee time reservations. 
 
-### `npm run build`
+## Whiteboard Images
+<img src="./Images/Landing-Page-Wireframe.png" alt="Landing Page Wireframe"/>
+<img src="./Images/Dashboard-Wireframe.png" alt="User Dashboard Wireframe"/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Trello Planning
+*https://trello.com/b/DUSQgM21/teetime
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## <a name="design"></a>Design
+* Design elements implemented using HTML5 and CSS3 along with Materialize 1.0.0 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## <a name="nextsteps"></a>Project Next Steps
+* Implement Google Maps API to find golf courses
+* Allow users to add other users to their reservation
+* Streamline design 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## <a name="deployment"></a>Deployed Link
+[Heroku](https://teetime0213.herokuapp.com) 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* You can view the repository:
+[Github.com] (https://github.com/hudnellmarcus/TeeTime)
+* If unable to view please go live locally through VS Code
+    
+## Works Cited:
 
-## Learn More
+https:/stackoverflow.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://developer.mozilla.org/en-US/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://materializecss.com/
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
